@@ -22,12 +22,15 @@
   "dependencies": {
     "@ant-design/pro-layout": "^6.5.0",
     "@umijs/preset-react": "1.x",
-    "umi": "^3.3.9"
+    "umi": "^3.3.9",
+    "unstated-next": "^1.1.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "@umijs/preset-ui": "^2.2.9",
     "@umijs/test": "^3.3.9",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "lint-staged": "^10.0.7",
     "prettier": "^2.2.0",
     "react": "17.x",
